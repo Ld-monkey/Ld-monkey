@@ -1,5 +1,5 @@
 <h1 align="center">Salutation 👋, et bienvenue sur mon GitHub 🐵 </h1>
-<h3 align="center">Développeur Front-End</h3> 
+<h3 align="center">Développeur Full Stack</h3> 
 
 ## Stack
 
